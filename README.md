@@ -1,6 +1,7 @@
 # taller Miércoles
 **febrero 24 de 2021**
 *Mes de la niña y la mujer*
+
 Este es un repositorio de prueba para aprender github
 
 ## Contenidos
